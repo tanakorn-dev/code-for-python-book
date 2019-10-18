@@ -1,5 +1,5 @@
 # Reading Multiple Input from Keyboard
-# Write program input name, age, height, weight and print all data in one row. 
+# จงเขียนโปรแกรมรับค่า name, age, height, weight และนำมารวมกันเป็นประโยค 'Hi ___, you're ___ year old, ___ centimeter tall and ___ kg weight.'
 
 # Enter name
 w = input("What is your name? : ")
