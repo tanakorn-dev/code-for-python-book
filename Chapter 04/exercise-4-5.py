@@ -4,8 +4,7 @@
 # ถ้า a = 13, b = 20 จงหาว่าอายุของนักเรียน อยู่่ในช่วง a และ b หรือไม่
 # ถ้า x = 15, y = 25 จงหาว่าอายุของนักเรียน เท่ากับ x หรือ y หรือไม่
 
-age_str = input("Please enter your age : ")
-age = int(age_str)
+age = int(input("Please enter your age : "))
 print(age)
 
 print(age > 18)

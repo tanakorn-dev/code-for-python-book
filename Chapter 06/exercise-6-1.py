@@ -3,6 +3,7 @@ animals = ["elephant", "tiger", "penguin", "bird", "dog", "cat"]
 for x in animals:
   print(x)
 
+# Looping Through a String
 # จงแสดงผลตัวอักษรแต่ละตัวในข้อความ "elephant" ออกมา โดยใช้ For Loop
 for x in "elephant":
   print(x)

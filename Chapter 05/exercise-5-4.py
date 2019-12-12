@@ -5,8 +5,7 @@
 # ถ้าคะแนน มากกว่าหรือเท่ากับ 70 และ น้อยกว่า 80 แสดงผล "เกรด B"
 # ถ้าคะแนน มากกว่า 80 แสดงผล "เกรด A"
 
-score_str = input("Please enter score : ")
-score = int(score_str)
+score = int(input("Please enter score : "))
 
 if score < 50:
     print("เกรด F")
